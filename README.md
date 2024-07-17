@@ -26,10 +26,8 @@ This project provides a web interface that continuously listens to the user's vo
     - The transcribed text will also be sent to the server to be saved in the database.
 
 ## Screenshots
-- Interface in Listening Mode:
-  ![Listening Mode](path_to_screenshot_listening_mode.png)
+- Interface in Listening Mode:                                                                                                                               ![Listening Mode](https://github.com/GhadaAs/speech-to-text-interface/blob/main/Screenshot%202024-07-17%20062345.png)                                        ![Listening Mode](https://github.com/GhadaAs/speech-to-text-interface/blob/main/Screenshot%202024-07-17%20050606.png)
 - Database Entry:
-  ![Database Entry](path_to_screenshot_database_entry.png)
+![Database Entry](https://github.com/GhadaAs/speech-to-text-interface/blob/main/Screenshot%202024-07-17%20050205.png)
+![Database Entry](https://github.com/GhadaAs/speech-to-text-interface/blob/main/Screenshot%202024-07-17%20050219.png)
 
-## Author
-Ghada As
